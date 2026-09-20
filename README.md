@@ -49,3 +49,14 @@ The project covers the full analytics workflow: importing and cleaning raw HR da
 
 ## Dashboard
 <img width="1321" height="736" alt="HR_Analytics_Dashboard" src="https://github.com/user-attachments/assets/093dedaa-82e6-4581-90d3-6f76b0cce9b8" />
+
+## 💡 Project Insights
+- Attrition is concentrated among younger employees: the 26–35 age group accounts for the largest share of attrition (111 employees), far ahead of other age brackets.
+- Lower salary bands see the most attrition: employees earning up to 5K make up 158 of the attrition cases — significantly higher than higher salary slabs, suggesting compensation is a strong driver of turnover.
+- Tenure matters most in the first year: attrition spikes sharply around the 1-year mark and then declines, indicating early-tenure employees are the most flight-risk group — likely tied to onboarding or early job-fit issues.
+- Research & Development and Sales drive most attrition: R&D (121) and Sales (84) together account for the vast majority of employees who left, while HR has comparatively low attrition (11).
+- Education field shows a skew: employees from Life Sciences (38%) and Medical (25%) backgrounds make up the largest share of attrition, largely reflecting the composition of the workforce itself.
+- Role-level detail: the matrix shows Laboratory Technician (60) and Sales Executive (55) roles have the highest attrition counts across satisfaction levels, pointing to these as priority roles for retention efforts.
+
+## ✅ Final Conclusion
+The analysis shows that attrition at this organization is not random — it is concentrated among younger, early-tenure, lower-salary employees, primarily within the Research & Development and Sales departments. This points to two clear priority areas for HR: strengthening onboarding and early engagement for employees in their first year, and reviewing compensation structures for lower salary bands where turnover risk is highest. Targeted retention strategies for high-attrition roles like Laboratory Technicians and Sales Executives could meaningfully reduce the overall attrition rate from its current 16.17%. This dashboard equips HR stakeholders with a single, interactive view to monitor these trends on an ongoing basis and measure the impact of retention initiatives over time.
